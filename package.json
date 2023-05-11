@@ -1,0 +1,45 @@
+{
+  "name": "cordova-plugin-app-weibosdk",
+  "version": "1.0.1",
+  "description": "codrova/phonegap wrapper for weibo sdk",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-app-weibosdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wgga/cordova-plugin-app-weibosdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wgga/cordova-plugin-app-weibosdk/issues"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "phonegap",
+    "plugin",
+    "weibosdk",
+    "weibo",
+    "sina",
+    "login",
+    "share"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    }
+  ],
+  "author": "Wgga",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/Wgga/cordova-plugin-app-weibosdk"
+}
