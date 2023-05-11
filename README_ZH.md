@@ -97,7 +97,7 @@ http.get(url)
 
 # 测试Demo
 在安装完这个插件以后，把 Cordova 工程中的代码替换为 example_www 中的代码，在 build 以后可以进行各个功能测试，以下为运行效果图：
-<div style="text-align:center"><img src="https://github.com/Wgga/cordova-plugin-app-weibosdk/blob/master/ScreenShot.png?raw=true" alt="example" style="width:300px"></div>		
+<div style="text-align:center"><img src="https://github.com/Wgga/cordova-plugin-app-weibosdk/blob/main/ScreenShot.png?raw=true" alt="example" style="width:300px"></div>		
 
 ## 关于微博SDK
 你可以在[这里](https://github.com/sinaweibosdk)，找到最新的微博 SDK，如果发现 bug 请开 issus，同时也欢迎 star 和 fork
