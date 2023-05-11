@@ -97,7 +97,7 @@ http.get(url)
 3. replace www by example_www
 4. cordova build & test
 
-<div style="text-align:center"><img src="https://github.com/Wgga/cordova-plugin-app-weibosdk/blob/master/ScreenShot.png?raw=true" alt="example" style="width:300px"></div> 
+<div style="text-align:center"><img src="https://github.com/Wgga/cordova-plugin-app-weibosdk/blob/main/ScreenShot.png?raw=true" alt="example" style="width:300px"></div> 
 
 ## About WeiboSdk
 you can downlaod last weibosdk [here](https://github.com/sinaweibosdk) .if you find any problem about weibosdk, open an isssus please.
