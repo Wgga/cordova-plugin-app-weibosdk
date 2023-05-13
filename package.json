@@ -39,7 +39,7 @@
       "version": ">=7.0.0"
     }
   ],
-  "author": "Wgga",
+  "author": "https://github.com/iVanPan",
   "license": "MIT",
   "homepage": "https://github.com/Wgga/cordova-plugin-app-weibosdk"
 }
