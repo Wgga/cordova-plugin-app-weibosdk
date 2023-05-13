@@ -1,5 +1,6 @@
 # cordova-plugin-app-weibosdk
 A Cordova wrapper around the Sina WeiboSDK for Android and iOS.[简体中文](https://github.com/Wgga/cordova-plugin-app-weibosdk/blob/main/README_ZH.md)
+Changed the arr file on the [original plugin](https://github.com/iVanPan/cordova_weibo)
 ## Feature
 - Weibo SSO Login
 - Weibo Logout
